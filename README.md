@@ -1,40 +1,39 @@
 # 🌱 Hi there, I’m Pai (Alex) Peng  
 
-👨‍💻 Computer Science and Data Science student at the University of Wisconsin-Madison.  
-🌟 Passionate about building scalable software and exploring the possibilities of AI and data-driven solutions.  
-📚 Always learning and growing.  
+## 📫 Let’s Connect  
+- 💌 Email: [ppeng24@wisc.edu](mailto:ppeng24@wisc.edu)  
+- 🌐 [Personal Website]([https://AnythingAbout.ai](https://main.d31w3jf482wcvr.amplifyapp.com/))  
+- 🤖 [Chat with My Bot](https://paipeline-anythingaboutme-appchatbot-tut6g2.streamlit.app/)  
+
+
+👨‍💻 Computer Science and Data Science student at the University of Wisconsin-Madison, previously B.S. in AI at Autonomous University of Barcelona with 4 years of ML research exp.
+🌟 Passionate about building scalable software and exploring the possibilities of AI integrations.
 
 ---
 
 ## 🌱 What I’m Working On
 - [**Mindy**](https://mymindy.net): A flashcard generator and storage system based on your notes, enhanced with LLM integration to augment your notes and merge them with external sources such as PDFs, audio, and video links.  
-- **Screenshots to LLM**: A centralized app for storing screenshots with automatic LLM inference for added convenience.  
+- **Screenshots to LLM**: A centralized app for storing screenshots with automatic LLM inference.  
 - **NextAPI**: Chat with my bot below to learn more.  
-- **AWS Certifications**: Preparing for the **Solutions Architect Associate** and **Machine Learning Specialty** exams to build scalable, AI-integrated systems.  
+- **AWS Certifications**: Preparing for the **Solutions Architect Associate** and **Machine Learning Specialty** exams to build AI-integrated cloud-native systems.  
 
 ---
 
 ## 🛠️ Skills & Tools
 ### **Languages**
-- Python 🐍 | Java ☕ | Go 🐹 | C++ 💻  
-- SQL 💾 | JavaScript (React/Next.js) 🌐  
+- Python 🐍 | Java ☕ | Go 🐹 | C/C++ 💻
+- SQL 💾 | JavaScript (React/Next.js) 🌐
 
 ### **Frameworks & Libraries**
 - FastAPI, TensorFlow, PyTorch, PySpark  
 
 ### **Tools**
-- MongoDB 🍃 | AWS (Lambda, S3, EC2, RDS) ☁️ | Docker 🐳 | Terraform ⚙️  
+- MongoDB 🍃 | AWS (Lambda, S3, EC2, RDS, CloudFront, API Gateway, ASG) ☁️ | Docker 🐳 | Terraform ⚙️  
 
 ### **Other Skills**
-- **Data Engineering**: Kafka, Cassandra, ETL Pipelines  
-- **AI/ML**: LLM integration, CNNs, Optimizations  
-
----
-
-## 📫 Let’s Connect  
-- 💌 Email: [ppeng24@wisc.edu](mailto:ppeng24@wisc.edu)  
-- 🌐 [Personal Website](https://AnythingAbout.ai)  
-- 🤖 [Chat with My Bot](https://paipeline-anythingaboutme-appchatbot-tut6g2.streamlit.app/)  
+- **Data Engineering**: Kafka, Cassandra, ETL Pipelines
+- **AI/ML**: LLM integration, CNNs, Optimizations
+- Bilingual in Spanish and Chinese
 
 ---
 
