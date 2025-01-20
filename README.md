@@ -1,7 +1,7 @@
 # 👋 Hi there, I’m Pai (Alex) Peng
 
 ## 📫 Let’s Connect  
-- 💌 Email: [ppeng24@wisc.edu](mailto:ppeng24@wisc.edu)  
+- 💌 [ppeng24@wisc.edu](mailto:ppeng24@wisc.edu)  
 - 🌐 [Personal Website](https://main.d31w3jf482wcvr.amplifyapp.com/)  
 - 🤖 [Chat with My Bot](https://paipeline-anythingaboutme-appchatbot-tut6g2.streamlit.app/)  
 
