@@ -2,6 +2,7 @@
 
 ## 📫 Let’s Connect  
 - 🤖 [Chat with My Bot](https://paipeline-anythingaboutme-appchatbot-tut6g2.streamlit.app/)
+- 🌐 [Website](https://main.d31w3jf482wcvr.amplifyapp.com/)  
 
 
 👨‍💻 Computer Science and Data Science student at the University of Wisconsin-Madison, previously B.S. in AI at Autonomous University of Barcelona with 4 years of ML research exp.
