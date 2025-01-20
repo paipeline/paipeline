@@ -1,9 +1,7 @@
 # 👋 Hi there, I’m Pai (Alex) Peng
 
 ## 📫 Let’s Connect  
-- 💌 [ppeng24@wisc.edu](mailto:ppeng24@wisc.edu)  
-- 🌐 [Personal Website](https://main.d31w3jf482wcvr.amplifyapp.com/)  
-- 🤖 [Chat with My Bot](https://paipeline-anythingaboutme-appchatbot-tut6g2.streamlit.app/)  
+- 🤖 [Chat with My Bot](https://paipeline-anythingaboutme-appchatbot-tut6g2.streamlit.app/)
 
 
 👨‍💻 Computer Science and Data Science student at the University of Wisconsin-Madison, previously B.S. in AI at Autonomous University of Barcelona with 4 years of ML research exp.
