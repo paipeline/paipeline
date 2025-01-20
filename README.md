@@ -1,4 +1,4 @@
-# 🌱 Hi there, I’m Pai (Alex) Peng  
+# Hi there, I’m Pai (Alex) Peng  🌟
 
 ## 📫 Let’s Connect  
 - 💌 Email: [ppeng24@wisc.edu](mailto:ppeng24@wisc.edu)  
@@ -37,4 +37,4 @@
 
 ---
 
-Feel free to share suggestions—I'm always open to feedback and ideas! 🌟
+Feel free to share suggestions—I'm always open to feedback and ideas! 
