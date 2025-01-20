@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Pai (Alex) Peng
+# 👋 Hi there, I’m Pai (Alex)
 
 ## 📫 Let’s Connect  
 - 🤖 [Chat with My Bot](https://paipeline-anythingaboutme-appchatbot-tut6g2.streamlit.app/)
