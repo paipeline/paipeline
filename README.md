@@ -19,7 +19,7 @@
 - **Screenshots to LLM**: A centralized app for storing screenshots with automatic LLM inference.  
 - **NextAPI**: Chat with my bot to learn more.  
 - **AWS Certifications**: Preparing for both **Solutions Architect Associate** and **Machine Learning Specialty** to build AI-integrated cloud-native systems.
-- **Writing HPC with C++**: Creating public notes on developing high-throughput systems by referencing the HPC course taught by Professor Eftychios Sifakis, a scientist at NVIDIA, as well as other online resources.
+- **Writing HPC with C++**: Creating public notes on developing high-throughput & parallel systems by referencing my progress in CS557 taught by Prof. Eftychios Sifakis - scientist at NVIDIA and advanced online resources.
 
 
 
