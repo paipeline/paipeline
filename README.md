@@ -24,9 +24,8 @@
 
 ## 🏋️ Hobbies
 - Coding at the gym, of course!
-- Biking
-- Hiking
-- Language Exchange: Catch me at [www.free4talk.com](https://www.free4talk.com), where I sometimes host rooms for Spanish, Chinese and English conversations (DEI+++). 
+- Language Exchange: Catch me at [www.free4talk.com](https://www.free4talk.com), where I sometimes host rooms for Spanish, Chinese and English conversations.
+- Biking & Hiking
 
 
 
