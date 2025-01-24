@@ -22,6 +22,13 @@
 - **AWS Certifications**: Preparing for both **Solutions Architect Associate** and **Machine Learning Specialty** to build AI-integrated cloud systems.
 - **Writing HPC with C++**: Creating public notes on developing high-throughput & parallel systems by referencing my progress in CS557 taught by Prof. Eftychios Sifakis - (scientist at NVIDIA), and advanced online resources.
 
+## 🏋️ Hobbies
+- Coding at the gym, of course!
+- Biking
+- Hiking
+- Language Exchange: Catch me at [www.free4talk.com](https://www.free4talk.com), where I sometimes host rooms for Spanish, Chinese and English conversations (DEI+++). 
+
+
 
 
 
