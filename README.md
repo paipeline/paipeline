@@ -19,7 +19,7 @@
 - **American Battery Solutions SDE Co-op**: Developing an enterprise-level AI agent for real-time visualization code generation.
 - **Screenshots to LLM**: A centralized app for storing screenshots with automatic LLM inference.  
 - **NextAPI**: Chat with my bot to learn more about the research initiative.  
-- **AWS Certifications**: Preparing for **Machine Learning Specialty** to build scalable AI-integrated cloud systems.
+- **AWS Certifications**: Got AWS Solutions Architect Associate. Now preparing for **Machine Learning Specialty** to build scalable AI-integrated cloud systems.
 - **Writing HPC with C++**: Creating public notes on developing high-throughput, CUDA & parallel systems by referencing my progress in CS557 taught by Prof. Eftychios Sifakis - (scientist at NVIDIA), and resources from NVIDIA.
 
 ## 🏋️ Hobbies
