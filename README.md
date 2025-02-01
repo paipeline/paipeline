@@ -12,7 +12,7 @@
 ## 🌱 What I’m Working On
 - [**Mindy**](https://mymindy.net): A flashcard generator and storage system based on your notes, enhanced with LLM integration to augment your notes and merge them with external sources such as PDFs, audio, and video links.
 - **American Battery Solutions SDE Co-op**: Developing an enterprise-level AI agent for real-time C code topological graph and documentation generation code generation by RAG and the analysis of AST.
-- **NodeTree.io**：System that dissects problem into manageable tree nodes and addresses each one with help of Multimodal AI, delivering clear, step-by-step problem solutions with branches of subproblems.
+- **NodeTree.io**：System that dissects problem into manageable subproblems and addresses each one with help of Multimodal AI, delivering clear, step-by-step problem solutions with branches of subproblem nodes.
 - **Writing HPC with C++**: Creating public notes on developing high-throughput, CUDA & parallel systems by referencing my progress in CS557 taught by Prof. Eftychios Sifakis - (scientist at NVIDIA), and resources on HPC/Scientifc Computing from NVIDIA.Developer.
 
 ## AWS Certifications
