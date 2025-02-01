@@ -5,9 +5,8 @@
 - **Raman Spectrum Analysis**: Developed ML models using CNNs and ordinal classification to detect Raman spectrum peaks, achieving high accuracy in separating PAHs and pesticides for chemical identification.
 - **Low-Light Image Enhancement**: Benchmarked deep learning models to improve image quality in low-light laboratory conditions.
 
-🌟 Passionate about building scalable ML integrated systems.
+🌟 Passionate about building scalable ML integrated Physical/Software systems.
 
----
 
 ## 🌱 What I’m Working On
 - [**Mindy**](https://mymindy.net): A flashcard generator and storage system based on your notes, enhanced with LLM integration to augment your notes and merge them with external sources such as PDFs, audio, and video links.
@@ -19,13 +18,11 @@
 - Got AWS Solutions Architect Associate.
 - Now preparing for **Machine Learning Specialty** to build scalable AI-integrated cloud systems.
 
----
 ## 🏋️ Hobbies
 - Coding at the gym, of course!
 - Language Exchange: Catch me at [www.free4talk.com](https://www.free4talk.com), where I sometimes host rooms for Spanish, Chinese and English conversations.
 - Biking & Hiking
 
----
 
 ## 📫 Let’s Connect  
 - 🤖 [Chat with My Bot](https://paipeline-anythingaboutme-appchatbot-tut6g2.streamlit.app/)
