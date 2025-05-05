@@ -9,9 +9,10 @@
 
 
 ## 🌱 What I’m Working On
+
+- **NodeTree.io**：System that dissects problem into manageable subproblems and addresses each one with help of Multimodal AI, delivering clear, step-by-step problem solutions with branches of subproblem nodes using reactflow to visualize the mindmap.
 - [**Mindy**](https://mymindy.net): A flashcard generator and storage system based on your notes, enhanced with LLM integration to augment your notes and merge them with external sources such as PDFs, audio, and video links.
 - **American Battery Solutions SDE Co-op**: Developing an enterprise-level AI agent for real-time C code topological graph and documentation generation code generation by RAG and the analysis of AST.
-- **NodeTree.io**：System that dissects problem into manageable subproblems and addresses each one with help of Multimodal AI, delivering clear, step-by-step problem solutions with branches of subproblem nodes using reactflow to visualize the mindmap.
 - **Writing HPC with C++**: Creating public notes on developing high-throughput, CUDA & parallel systems by referencing my progress in CS557 taught by Prof. Eftychios Sifakis - (scientist at NVIDIA), and resources on HPC/Scientifc Computing from NVIDIA.Developer.
 
 ## AWS Certifications
@@ -19,8 +20,10 @@
 - Now preparing for **Machine Learning Specialty** to build scalable AI-integrated cloud systems.
 
 ## 🏋️ Hobbies
-- Coding at the gym, of course!
-- Language Exchange: Catch me at [www.free4talk.com](https://www.free4talk.com), where I sometimes host rooms for Spanish, Chinese and English conversations.
+“And those who were seen dancing were thought to be insane by those who could not hear the music.” — Friedrich Nietzsche
+
+- Love researching new topics, combining new things to solve problems.
+- Language Exchange: Catch me at [www.free4talk.com](https://www.free4talk.com), where I sometimes host rooms for Spanish and Chinese conversations.
 - Biking & Hiking
 
 
