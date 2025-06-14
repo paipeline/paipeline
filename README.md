@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Pai (Alex)
 
-👨‍💻 Double major in Computer Science and Data Science at the University of Wisconsin-Madison; transferred from B.S. in AI at the Autonomous University of Barcelona, with 4 years of continuous ML research experience.
+👨‍💻 MSAI@Northwestern Univ. with 4 years of continuous ML research experience.
 - **T-Few**: Engaged in the study and application of transfer learning techniques using few-shot learning, focusing on tasks that benefit from minimal labeled data.
 - **Raman Spectrum Analysis**: Developed ML models using CNNs and ordinal classification to detect Raman spectrum peaks, achieving high accuracy in separating PAHs and pesticides for chemical identification.
 - **Low-Light Image Enhancement**: Benchmarked deep learning models to improve image quality in low-light laboratory conditions.
