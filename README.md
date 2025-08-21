@@ -7,30 +7,28 @@
 🌟 Passionate about building scalable ML integrated Physical/Software systems.
 
 
+## AWS Certifications
+- Got AWS Solutions Architect Associate.
+- Preparing for **Machine Learning Specialty** to build scalable AI-integrated cloud systems.
+
+## 🏋️ Hobbies
+`- Love researching new topics, combining new ideas to solve real-world problems`.
+- Language Exchange: Catch me at [www.free4talk.com](https://www.free4talk.com), where I sometimes host rooms for Spanish and Chinese conversations.
+- Biking, Hiking, Tennis. A veces un poco de fútbol tmb.
+
+
+## 📫 Let’s Connect  
+- 🤖 [Chat with My Bot](https://paipeline-anythingaboutme-appchatbot-tut6g2.streamlit.app/)
+- 🌐 [Website](https://main.d31w3jf482wcvr.amplifyapp.com/)  
+---
+
 AI Product Tanatorio 🪦 (RIP): 
 - www.Mymindy.net - Data Mining Your Notes. leveraging AI and NLP pipelines to extract, organize, and surface actionable insights from users’ notes, enabling smarter knowledge retrieval and study automation.
 
 - Step.ai - AI to AI Networking. A Coffee Chat Platform ☕️ but for AI. Built a system for autonomous AI agent resume exchange and interaction.
   
 - Vitaelia - AI Vision Necklaces. Experienced and Burnt an Arduino (RIP).
-
-
-## AWS Certifications
-- Got AWS Solutions Architect Associate.
-- Preparing for **Machine Learning Specialty** to build scalable AI-integrated cloud systems.
-
-## 🏋️ Hobbies
-
-
-- Love researching new topics, combining new ideas to solve real-world problems.
-- Language Exchange: Catch me at [www.free4talk.com](https://www.free4talk.com), where I sometimes host rooms for Spanish and Chinese conversations.
-- Biking & Hiking
-- Tennis
-
-
-## 📫 Let’s Connect  
-- 🤖 [Chat with My Bot](https://paipeline-anythingaboutme-appchatbot-tut6g2.streamlit.app/)
-- 🌐 [Website](https://main.d31w3jf482wcvr.amplifyapp.com/)  
+  
 ---
 
 “And those who were seen dancing were thought to be insane by those who could not hear the music.” — Friedrich Nietzsche
