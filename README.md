@@ -1,11 +1,9 @@
 # 👋 Hi there, I’m Pai (Alex)
-👨‍💻 Master Science of Artificial Intelligence at Northwestern University with 4 years of continuous ML research experience.
+Master Science of Artificial Intelligence at Northwestern University with 4 years of continuous ML research experience.
 - **T-Few**: Engaged in the study and application of transfer learning techniques using few-shot learning, focusing on tasks that benefit from minimal labeled data.
 - **Raman Spectrum Analysis**: Developed ML models using CNNs and ordinal classification to detect Raman spectrum peaks, achieving high accuracy in separating PAHs and pesticides for chemical identification.
 - **Low-Light Image Enhancement**: Benchmarked deep learning models to improve image quality in low-light laboratory conditions.
-
-🌟 Passionate about building scalable ML integrated Physical/Software systems.
-
+Passionate about building scalable ML integrated Physical/Software systems.
 
 ## AWS Certifications
 - Got AWS Solutions Architect Associate.
@@ -17,21 +15,22 @@
 - Biking, Hiking, Tennis. A veces un poco de fútbol tmb.
 
 
-## 📫 Let’s Connect  
-- 🤖 [Chat with My Bot](https://paipeline-anythingaboutme-appchatbot-tut6g2.streamlit.app/)
-- 🌐 [Website](https://main.d31w3jf482wcvr.amplifyapp.com/)  
----
-
 AI Product Tanatorio 🪦 (RIP): 
 - www.Mymindy.net - Data Mining Your Notes. leveraging AI and NLP pipelines to extract, organize, and surface actionable insights from users’ notes, enabling smarter knowledge retrieval and study automation.
 
 - Step.ai - AI to AI Networking. A Coffee Chat Platform ☕️ but for AI. Built a system for autonomous AI agent resume exchange and interaction.
   
 - Vitaelia - AI Vision Necklaces. Experienced and Burnt an Arduino (RIP).
-  
+
 ---
 
 “And those who were seen dancing were thought to be insane by those who could not hear the music.” — Friedrich Nietzsche
+
+
+## Let’s Connect if you hear the same music!
+- 🤖 [Chat with My Bot](https://paipeline-anythingaboutme-appchatbot-tut6g2.streamlit.app/)
+- 🌐 [Website](https://main.d31w3jf482wcvr.amplifyapp.com/)  
+---
 
 
 
