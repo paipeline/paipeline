@@ -1,5 +1,13 @@
 # 👋 Hi there, I’m Pai (Alex)
 
+AI Product Tanatorio 🪦 (RIP): 
+- www.Mymindy.net - Data Mining Your Notes. leveraging AI and NLP pipelines to extract, organize, and surface actionable insights from users’ notes, enabling smarter knowledge retrieval and study automation.
+
+- Step.ai - AI to AI Networking. A Coffee Chat Platform ☕️ but for AI. Built a system for autonomous AI agent resume exchange and interaction.
+  
+- Vitaelia - AI Vision Necklaces. Experienced and Burnt an Arduino (RIP).
+
+
 👨‍💻 Master Science of Artificial Intelligence at Northwestern University with 4 years of continuous ML research experience.
 - **T-Few**: Engaged in the study and application of transfer learning techniques using few-shot learning, focusing on tasks that benefit from minimal labeled data.
 - **Raman Spectrum Analysis**: Developed ML models using CNNs and ordinal classification to detect Raman spectrum peaks, achieving high accuracy in separating PAHs and pesticides for chemical identification.
