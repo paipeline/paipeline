@@ -16,7 +16,7 @@ Passionate about building scalable ML integrated Physical/Software systems.
 - Biking, Hiking, Tennis. A veces un poco de fútbol tmb.
 
 ---
-AI Product Tanatorio 🪦 (RIP): 
+Project Tanatorio 🪦 (RIP): 
 - www.Mymindy.net - Data Mining Your Notes. leveraging AI and NLP pipelines to extract, organize, and surface actionable insights from users’ notes, enabling smarter knowledge retrieval and study automation.
 
 - Step.ai - AI to AI Networking. A Coffee Chat Platform ☕️ but for AI. Built a system for autonomous AI agent resume exchange and interaction.
@@ -25,12 +25,12 @@ AI Product Tanatorio 🪦 (RIP):
 
 ---
 
-“And those who were seen dancing were thought to be insane by those who could not hear the music.” — Friedrich Nietzsche
+### “And those who were seen dancing were thought to be insane by those who could not hear the music.” — Friedrich Nietzsche
 
 
-## Let’s Connect if you hear the same music!
-- 🤖 [Chat with My Bot](https://paipeline-anythingaboutme-appchatbot-tut6g2.streamlit.app/)
-- 🌐 [Website](https://main.d31w3jf482wcvr.amplifyapp.com/)  
+### Let’s Connect if you hear the same music!
+- [Chat with My Bot](https://paipeline-anythingaboutme-appchatbot-tut6g2.streamlit.app/)
+- [LinkedIn](https://www.linkedin.com/in/alex-peng-8aa782199/)
 ---
 
 
