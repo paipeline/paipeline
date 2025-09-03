@@ -2,7 +2,7 @@
 <div align="center">
 
 # Alex (Pai) Peng  
-_M.S. Artificial Intelligence @ Northwestern University
+_M.S. Artificial Intelligence @ Northwestern University_
 
 <br/>
 
@@ -32,7 +32,7 @@ _M.S. Artificial Intelligence @ Northwestern University
 ### Projects (in the wild / RIP)
 - **MyMindy** — _Data Mining Your Notes_: AI/NLP to extract & surface actionable insights from personal notes. → https://www.Mymindy.net
 - **Step.ai** — AI↔AI networking (coffee chats for agents; autonomous resume exchange & interaction)
-- **Vitaelia** — AI Vision Necklaces (burned an Arduino 🔥—lesson learned)
+- **Vitaelia** — AI Vision Necklaces (burned an Arduino 🔥)
 
 ---
 
