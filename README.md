@@ -2,8 +2,7 @@
 <div align="center">
 
 # Alex (Pai) Peng  
-_M.S. Artificial Intelligence @ Northwestern University_  
-4+ years of continuous ML research • Building scalable ML × Physical/Software systems
+_M.S. Artificial Intelligence @ Northwestern University
 
 <br/>
 
@@ -14,13 +13,14 @@ _M.S. Artificial Intelligence @ Northwestern University_
 ---
 
 ### About
-`Pai (Alex)` — I research, prototype, and ship ML systems that survive the jump from paper → product.
+`Alex (Pai)` — I research, prototype, and ship ML systems that survive the jump from paper → product.
 
+- UPLAW: Agentic Planning Abstraction Layer
 - FSM-based **Agent Builder**: automatic LangGraph construction via LLM + finite state machines.
 - **T-Few**: transfer learning with few-shot setups for low-label regimes.
 - **Raman Spectrum Analysis**: CNN + ordinal classification to detect peaks; separated PAHs vs. pesticides with high accuracy.
 - **Low-Light Image Enhancement**: benchmarked DL models for lab imaging.
-
+``
 ---
 
 ### AWS
