@@ -30,6 +30,7 @@ _M.S. Artificial Intelligence @ Northwestern University_
 ---
 
 ### Projects (in the wild / RIP)
+- **Deepthink with MCTs** - Developing a new way to udpate RL rewards based on Deepthink with Conf and MCTs unsupervised iterations
 - **MyMindy** — _Data Mining Your Notes_: AI/NLP to extract & surface actionable insights from personal notes. → https://www.Mymindy.net
 - **Step.ai** — AI↔AI networking (coffee chats for agents; autonomous resume exchange & interaction)
 - **Vitaelia** — AI Vision Necklaces (burned an Arduino 🔥)
