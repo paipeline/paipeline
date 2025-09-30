@@ -2,7 +2,7 @@
 <div align="center">
 
 # Alex (Pai) Peng  
-_M.S. Artificial Intelligence @ Northwestern University_
+_M.S. Electrical and Computer Engineering @ Carnegie Mellon University_
 
 <br/>
 
